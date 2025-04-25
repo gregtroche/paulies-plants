@@ -13,6 +13,7 @@ import './components/site-header/site-header.makeswift';
 import './components/slideshow/slideshow.makeswift';
 import './components/sticky-sidebar/sticky-sidebar.makeswift';
 import './components/product-detail/register';
+import "./components/hello-world/hello-world.makeswift";
 
 import './components/site-theme/register';
 
